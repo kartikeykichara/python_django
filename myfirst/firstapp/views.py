@@ -12,3 +12,9 @@ def catering1(request):
 
 def catering2(request):
     return render(request,'catering2.html')
+
+def boxshadow(request):
+    return render(request,'boxshadow.html')
+
+def box_sizing(request):
+    return render(request,'box_sizing.html')

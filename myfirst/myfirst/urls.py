@@ -23,5 +23,7 @@ urlpatterns = [
     path('',views.output),
     path('neww',views.neww),
     path('catering1/',views.catering1),
-    path('catering2/',views.catering2)
+    path('catering2/',views.catering2),
+     path('boxshadow/',views.boxshadow),
+    path('box_sizing/',views.box_sizing)
 ]
