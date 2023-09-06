@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    text-align: center;
+    border: 2px solid yellow;
+}
+body{
+    background-color: black;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+h2{
+   color: yellow;
+   border: 3px solid rgb(184, 11, 11);
+   text-align: center;
+}
